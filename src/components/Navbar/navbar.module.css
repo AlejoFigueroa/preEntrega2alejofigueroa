@@ -1,0 +1,6 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(75, 148, 75);
+    color: beige;
+}
